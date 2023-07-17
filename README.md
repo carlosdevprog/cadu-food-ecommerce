@@ -1,6 +1,6 @@
 <h2>Seja bem vindo(a) ao meu e-commerce, o Cadu Lanches!</h2>
 <h3>Na minha lanchonete, você pode escolher diversos tipos de lanches, como: hambúrgueres, pizzas doces e salgadas, bebidas, sorvetes e batatas fritas.</h3>
-<h3>Projeto desenvolvido com:<br><br>• React<br>• Typescript<br>• Styled-components<br>• Context-Api <br>• Hooks personalizados <br>• Design responsivo</h3>
+<h3>Projeto desenvolvido com:<br><br>• React<br>• Typescript<br>• Styled-components<br>• Context-Api <br>• Hooks personalizados <br>• Design responsivo<br><br> • Incluido alguns testes unitários</h3>
 <h3>Acesse o site pelo link: https://cadu-food-ecommerce.vercel.app/</h3>
 
 <div align="center">  
