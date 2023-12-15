@@ -48,6 +48,6 @@ Esse projeto está sob a licença MIT - acesse os detalhes [![NPM](https://img.s
 
 ## 💡 Agradecimento
 
-* Agradeço ao **Dev Samurai** pela excelente aula no curso Dev Samurai - https://st.devsamurai.com.br/
+* Agradeço ao **Prof. Felipe Fontoura** pela excelente aula no curso Dev Samurai - https://st.devsamurai.com.br/
 * Para suporte, mande um email para carloseduardolima.dev@gmail.com
 * Meu linkedin - https://www.linkedin.com/in/carlos-etl
