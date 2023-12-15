@@ -18,6 +18,7 @@ A aplicação é um e-commerce de lanches. No site, pode-se escolher a quantidad
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 * ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 * ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
+* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 * ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ## ⚙️ Implantação em produção
@@ -39,7 +40,7 @@ npm start
 
 ## 📄 Licença
 
-Esse projeto está sob a licença MIT - acesse os detalhes [![NPM](https://img.shields.io/npm/l/react)](https://github.com/carlosdevprog/site-educacional-react/blob/master/LICENSE)
+Esse projeto está sob a licença MIT - acesse os detalhes [![NPM](https://img.shields.io/npm/l/react)](https://github.com/carlosdevprog/cadu-food-ecommerce/blob/master/LICENSE)
 
 ## 👷 Autor
 
