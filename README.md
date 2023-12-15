@@ -29,7 +29,7 @@ A aplicação é um e-commerce de lanches. No site, pode-se escolher a quantidad
 
 ```
 # clonar repositório
-git clone https://github.com/carlosdevprog/site-educacional-react.git
+git clone https://github.com/carlosdevprog/cadu-food-ecommerce.git
 
 # instalar dependências
 npm install
@@ -44,10 +44,10 @@ Esse projeto está sob a licença MIT - acesse os detalhes [![NPM](https://img.s
 
 ## 👷 Autor
 
-* **Carlos Eduardo Teixeira de Lima** - *Reprodução*
+* **Carlos Eduardo Teixeira de Lima** - *Reprodução e personalização* 
 
 ## 💡 Agradecimento
 
-* Agradeço ao **GorkCoder** pela excelente aula no youtube - https://www.youtube.com/watch?v=KkQATIXBY5w&t=1s
+* Agradeço ao **Dev Samurai** pela excelente aula no curso Dev Samurai - https://st.devsamurai.com.br/
 * Para suporte, mande um email para carloseduardolima.dev@gmail.com
 * Meu linkedin - https://www.linkedin.com/in/carlos-etl
