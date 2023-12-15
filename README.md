@@ -1,24 +1,52 @@
-<h2>Seja bem vindo(a) ao meu e-commerce, o Cadu Lanches!</h2>
-<h3>Na minha lanchonete, você pode escolher diversos tipos de lanches, como: hambúrgueres, pizzas doces e salgadas, bebidas, sorvetes e batatas fritas.</h3>
-<h3>Projeto desenvolvido com:<br><br>• React<br>• Typescript<br>• Styled-components<br>• Context-Api <br>• Hooks personalizados <br>• Design responsivo<br><br> • Incluido alguns testes unitários</h3>
-<h3>Acesse o site pelo link: https://cadu-food-ecommerce.vercel.app/</h3>
+# Cadu Lanches 
 
-<div align="center">  
-  <h2>Escolha seu produto...</h2>
-  <img height="350" src="https://media.discordapp.net/attachments/971165654352793643/1130441545494057020/demo1.png?width=1177&height=604"/>
-  <h2>Clique e acesse o seu carrinho, editando as quantidades ou excluindo...</h2>
-  <img height="350" src="https://media.discordapp.net/attachments/971165654352793643/1130441638070714368/demo2.png?width=1177&height=604"/>
-  <h2>E finalize sua compra!</h2>
-  <img height="350" src="https://media.discordapp.net/attachments/971165654352793643/1130441769369227425/demo3.png?width=1177&height=604"/> 
-  
-  <h2>Hambúrgueres</h2>
-  <img height="350" src="https://media.discordapp.net/attachments/971165654352793643/1130440906777047091/geral1.png?width=1177&height=604"/>
-  <h2>Pizzas</h2>
-  <img height="350" src="https://media.discordapp.net/attachments/971165654352793643/1130441086750437376/geral2.png?width=1177&height=604"/>
-  <h2>Bebidas</h2>
-  <img height="350" src="https://media.discordapp.net/attachments/971165654352793643/1130441195731025970/geral3.png?width=1177&height=604"/>
-  <h2>Sorvetes</h2>
-  <img height="350" src="https://media.discordapp.net/attachments/971165654352793643/1130441294427209819/geral4.png?width=1177&height=604"/>
-  <h2>Batatas fritas</h2>
-  <img height="350" src="https://media.discordapp.net/attachments/971165654352793643/1130441423725015100/geral5.png?width=1177&height=604"/>
-</div>
+## 🚀 Sobre o projeto
+
+https://cadu-food-ecommerce.vercel.app/
+
+A aplicação é um e-commerce de lanches. No site, pode-se escolher a quantidade de itens, adicionar ao carrinho, editar ou deletar e finalizar a compra. 
+
+![](https://github.com/carlosdevprog/urls-de-imagens/blob/master/assets/cadu-lanches/Screenshot_1.jpg?raw=true)
+![](https://github.com/carlosdevprog/urls-de-imagens/blob/master/assets/cadu-lanches/Screenshot_2.jpg?raw=true)
+![](https://github.com/carlosdevprog/urls-de-imagens/blob/master/assets/cadu-lanches/Screenshot_3.jpg?raw=true)
+
+## 📦 Tecnologias usadas
+
+**Front-end:**
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
+* ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+## ⚙️ Implantação em produção
+* ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+## 🛠️ Como executar o projeto
+#### Pré-requisitos: [Node.js / NPM ](https://nodejs.org/en) - Versão recomendada.
+
+```
+# clonar repositório
+git clone https://github.com/carlosdevprog/site-educacional-react.git
+
+# instalar dependências
+npm install
+
+# executar o projeto
+npm start
+```
+
+## 📄 Licença
+
+Esse projeto está sob a licença MIT - acesse os detalhes [![NPM](https://img.shields.io/npm/l/react)](https://github.com/carlosdevprog/site-educacional-react/blob/master/LICENSE)
+
+## 👷 Autor
+
+* **Carlos Eduardo Teixeira de Lima** - *Reprodução*
+
+## 💡 Agradecimento
+
+* Agradeço ao **GorkCoder** pela excelente aula no youtube - https://www.youtube.com/watch?v=KkQATIXBY5w&t=1s
+* Para suporte, mande um email para carloseduardolima.dev@gmail.com
+* Meu linkedin - https://www.linkedin.com/in/carlos-etl
